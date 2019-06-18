@@ -18,7 +18,10 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
  */
 public class Main {
     public static void main(String[] args) {
-
+        String path="file:/D:/Code6/web/sas";
+        path=path.replace("/","\\");
+        System.out.println(path);
+        System.out.println("阿萨");
     }
     public int arrayNesting(int[] nums) {
         Set<Integer> visit=new HashSet<Integer>();
