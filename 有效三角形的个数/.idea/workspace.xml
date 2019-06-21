@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3ba3abc-df6a-42e4-9a8f-b7a60ebd4104" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../三个数的最大乘积/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../三个数的最大乘积/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../优美的排列 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../优美的排列 II/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../子数组最大平均数 I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../子数组最大平均数 I/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +15,7 @@
     <session id="-62022455">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -83,8 +81,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="180" />
+    <option name="y" value="111" />
     <option name="width" value="1235" />
     <option name="height" value="865" />
   </component>
@@ -159,16 +157,15 @@
       <updated>1560938747329</updated>
       <workItem from="1560938749753" duration="318000" />
       <workItem from="1560946751266" duration="778000" />
-      <workItem from="1561010280100" duration="412000" />
+      <workItem from="1561010280100" duration="971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1508000" />
+    <option name="totallyTimeSpent" value="2067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09986595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
