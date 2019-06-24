@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a96de64f-b4b3-403f-b09d-27baae5a4e07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../图片平滑器/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../图片平滑器/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../最大交换/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最大交换/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../非递减数列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../非递减数列/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../岛屿的最大面积/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../岛屿的最大面积/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +16,7 @@
     <session id="-101237142">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -79,11 +79,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="565" />
-    <option name="y" value="90" />
-    <option name="width" value="990" />
-    <option name="height" value="695" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1007" />
+    <option name="y" value="26" />
+    <option name="width" value="898" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -114,7 +114,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561175994916" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561212812859" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -148,7 +148,7 @@
     <option name="totallyTimeSpent" value="1287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
