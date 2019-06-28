@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57a0083b-de03-4553-b5b7-6039ea85a687" name="Default Changelist" comment="" />
+    <list default="true" id="57a0083b-de03-4553-b5b7-6039ea85a687" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../使用最小花费爬楼梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../使用最小花费爬楼梯/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../至少是其他数字两倍的最大数/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../至少是其他数字两倍的最大数/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +176,7 @@
     <option name="totallyTimeSpent" value="3689000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113270774" />
