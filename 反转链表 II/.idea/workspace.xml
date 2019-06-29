@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="57a0083b-de03-4553-b5b7-6039ea85a687" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../使用最小花费爬楼梯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../使用最小花费爬楼梯/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../全局倒置与局部倒置/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../全局倒置与局部倒置/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../按奇偶排序数组 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../按奇偶排序数组 II/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../最多能完成排序的块/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最多能完成排序的块/.idea/workspace.xml" afterDir="false" />
@@ -18,11 +19,12 @@
     <session id="-1195580155">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -93,7 +95,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="900" />
@@ -105,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,7 +125,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,17 +173,18 @@
       <workItem from="1561625878934" duration="2315000" />
       <workItem from="1561638975171" duration="753000" />
       <workItem from="1561702057266" duration="621000" />
+      <workItem from="1561777476047" duration="279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3689000" />
+    <option name="totallyTimeSpent" value="3968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113270774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11461126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
