@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a28b2a5-5403-41d2-9bcc-b5b8fe4e4398" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../转置矩阵/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../转置矩阵/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../买卖股票的最佳时机 III/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../买卖股票的最佳时机 III/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -159,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561355392356</updated>
       <workItem from="1561355396447" duration="703000" />
-      <workItem from="1562390577179" duration="1700000" />
+      <workItem from="1562390577179" duration="2297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2403000" />
+    <option name="totallyTimeSpent" value="3000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
