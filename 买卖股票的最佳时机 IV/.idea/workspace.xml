@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fdef816-bdbe-42e7-bb59-38148aad5a31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../买卖股票的最佳时机 III/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../买卖股票的最佳时机 III/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../买卖股票的最佳时机含手续费/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../买卖股票的最佳时机含手续费/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最佳买卖股票时机含冷冻期/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最佳买卖股票时机含冷冻期/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +15,7 @@
     <session id="1959872906">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -114,7 +113,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562395557765" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562395572371" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -140,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562394041125</updated>
-      <workItem from="1562394044196" duration="1110000" />
+      <workItem from="1562394044196" duration="2107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1110000" />
+    <option name="totallyTimeSpent" value="2107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
