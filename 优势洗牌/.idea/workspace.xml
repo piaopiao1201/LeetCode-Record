@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e84bd855-9342-4e8a-9bc0-50d587d833b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../买卖股票的最佳时机 III/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../买卖股票的最佳时机 III/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../买卖股票的最佳时机 IV/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../买卖股票的最佳时机 IV/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../买卖股票的最佳时机含手续费/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../买卖股票的最佳时机含手续费/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../最佳买卖股票时机含冷冻期/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最佳买卖股票时机含冷冻期/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../最长的斐波那契子序列的长度/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最长的斐波那契子序列的长度/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +15,7 @@
     <session id="-777213160">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -86,8 +84,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="900" />
     <option name="height" value="815" />
   </component>
@@ -120,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562469758286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562499704312" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -160,16 +158,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562466406656</updated>
-      <workItem from="1562466409343" duration="1928000" />
+      <workItem from="1562466409343" duration="2571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1928000" />
+    <option name="totallyTimeSpent" value="2571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -185,7 +182,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
