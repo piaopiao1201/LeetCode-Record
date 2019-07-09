@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e84bd855-9342-4e8a-9bc0-50d587d833b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../公平的糖果交换/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../公平的糖果交换/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../单调数列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单调数列/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e84bd855-9342-4e8a-9bc0-50d587d833b8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +13,7 @@
     <session id="-777213160">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="2" />
@@ -159,12 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562466406656</updated>
       <workItem from="1562466409343" duration="2571000" />
-      <workItem from="1562557028273" duration="617000" />
+      <workItem from="1562557028273" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3188000" />
+    <option name="totallyTimeSpent" value="3191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
