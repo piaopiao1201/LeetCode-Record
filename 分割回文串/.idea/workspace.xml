@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06b291e-127d-4d63-9eb4-a3aa2f89c9c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Excel表列序号/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Excel表列序号/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excel表列序号/out/production/Excel表列序号/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Excel表列序号/out/production/Excel表列序号/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excel表列序号/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excel表列序号/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../被围绕的区域/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../被围绕的区域/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -95,10 +99,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="445" />
-    <option name="y" value="100" />
-    <option name="width" value="900" />
-    <option name="height" value="815" />
+    <option name="x" value="285" />
+    <option name="y" value="63" />
+    <option name="width" value="720" />
+    <option name="height" value="653" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,7 +133,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562902956970" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562924964275" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -169,15 +173,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562898818991</updated>
-      <workItem from="1562898821353" duration="2517000" />
+      <workItem from="1562898821353" duration="2584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2517000" />
+    <option name="totallyTimeSpent" value="2584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />

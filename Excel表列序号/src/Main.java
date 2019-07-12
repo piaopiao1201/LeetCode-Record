@@ -1,9 +1,13 @@
+import org.omg.CORBA.StringHolder;
+
 import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
         int res=titleToNumber("ZY");
+        String s=".sasa.sasa";
+        String[] str=s.split("");
         System.out.println(1);
     }
     public static int titleToNumber(String s) {
