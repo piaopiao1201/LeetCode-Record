@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="effa69d6-8a48-40f2-a580-f5f4e2fc5243" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Excel表列序号/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Excel表列序号/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excel表列序号/out/production/Excel表列序号/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Excel表列序号/out/production/Excel表列序号/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excel表列序号/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excel表列序号/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../分割回文串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分割回文串/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,6 +17,7 @@
     <session id="-1472161520">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -50,7 +49,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1232">
+            <state relative-caret-position="-1107">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="e#63#64#0" expanded="true" />
@@ -120,7 +119,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562924964228" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562925152558" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -169,6 +168,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -184,7 +184,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -209,7 +209,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1232">
+        <state relative-caret-position="-1107">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#63#64#0" expanded="true" />
