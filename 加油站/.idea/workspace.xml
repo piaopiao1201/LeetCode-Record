@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bffd8668-1765-4236-be2d-da1e024907f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../颠倒二进制位/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../颠倒二进制位/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../复制带随机指针的链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../复制带随机指针的链表/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../复制带随机指针的链表/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../复制带随机指针的链表/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,7 +113,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563259650438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563260265732" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -138,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563257571736</updated>
-      <workItem from="1563257575471" duration="1104000" />
+      <workItem from="1563257575471" duration="1362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1104000" />
+    <option name="totallyTimeSpent" value="1362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
