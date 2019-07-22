@@ -4,6 +4,9 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         int[][] prerequisites={{1,0}};
+        Long a=0xffffffffffffffffL;
+        Long b=-1L;
+        System.out.println(a);
         boolean res=canFinish(2,prerequisites);
         System.out.println(1);
     }
