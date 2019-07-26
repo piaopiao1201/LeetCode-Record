@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40dc5694-c1b3-4bde-8fdf-28bb3689f42c" name="Default Changelist" comment="" />
+    <list default="true" id="40dc5694-c1b3-4bde-8fdf-28bb3689f42c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../翻转二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../翻转二叉树/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +16,7 @@
     <session id="-1089536848">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="3" />
@@ -48,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="70" column="19" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="70" selection-end-column="19" />
+            <state relative-caret-position="197">
+              <caret line="70" column="19" selection-start-line="14" selection-start-column="8" selection-end-line="70" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,7 +130,7 @@
     <property name="SearchEverywhereHistoryKey" value="s&#9;PSI&#9;JAVA://sun.print.resources.serviceui_fr" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564061858952" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564062022995" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -169,16 +172,15 @@
       <updated>1564047936279</updated>
       <workItem from="1564047939191" duration="27000" />
       <workItem from="1564047974563" duration="720000" />
-      <workItem from="1564052970377" duration="8281000" />
+      <workItem from="1564052970377" duration="8924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9028000" />
+    <option name="totallyTimeSpent" value="9671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -191,7 +193,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47360703" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47360703" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -241,8 +243,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="70" column="19" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="70" selection-end-column="19" />
+        <state relative-caret-position="197">
+          <caret line="70" column="19" selection-start-line="14" selection-start-column="8" selection-end-line="70" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
