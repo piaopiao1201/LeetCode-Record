@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c2d9084-4306-4748-89d5-69241491ab17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../最大正方形/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../最大正方形/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../路径总和 III/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../路径总和 III/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前 K 个高频元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../前 K 个高频元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前 K 个高频元素/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../前 K 个高频元素/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,8 +153,7 @@
     <option name="totallyTimeSpent" value="2643000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06300268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

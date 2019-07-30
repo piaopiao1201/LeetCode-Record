@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33960870-164f-4e20-883f-29299585e95b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4a998907-e776-450e-a8af-fb26804d6c75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../前 K 个高频元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../前 K 个高频元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../前 K 个高频元素/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../前 K 个高频元素/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../搜索二维矩阵 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../搜索二维矩阵 II/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,10 +14,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1520687360">
+    <session id="95921886">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -33,15 +33,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="287" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="287" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="零钱兑换" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -49,11 +52,11 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <element signature="e#123#140#0" expanded="true" />
-                <element signature="e#401#429#0" expanded="true" />
-                <element signature="e#778#787#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,18 +99,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="前 K 个高频元素" type="b2602c69:ProjectViewProjectNode" />
-              <item name="前 K 个高频元素" type="462c0819:PsiDirectoryNode" />
+              <item name="零钱兑换" type="b2602c69:ProjectViewProjectNode" />
+              <item name="零钱兑换" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="前 K 个高频元素" type="b2602c69:ProjectViewProjectNode" />
-              <item name="前 K 个高频元素" type="462c0819:PsiDirectoryNode" />
+              <item name="零钱兑换" type="b2602c69:ProjectViewProjectNode" />
+              <item name="零钱兑换" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -119,7 +122,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564474201503" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564474201535" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -138,7 +141,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="前 K 个高频元素" />
+      <module name="零钱兑换" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -154,17 +157,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="33960870-164f-4e20-883f-29299585e95b" name="Default Changelist" comment="" />
-      <created>1564454235862</created>
+      <changelist id="4a998907-e776-450e-a8af-fb26804d6c75" name="Default Changelist" comment="" />
+      <created>1564470622487</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564454235862</updated>
-      <workItem from="1564454238667" duration="3109000" />
+      <updated>1564470622487</updated>
+      <workItem from="1564470624808" duration="2219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3109000" />
+    <option name="totallyTimeSpent" value="2219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -173,13 +176,13 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15549597" />
+      <window_info id="Favorites" sideWeight="0.5010941" side_tool="true" visible="true" weight="0.15482573" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989059" visible="true" weight="0.15482573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -209,11 +212,11 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
-            <element signature="e#123#140#0" expanded="true" />
-            <element signature="e#401#429#0" expanded="true" />
-            <element signature="e#778#787#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
           </folding>
         </state>
       </provider>
