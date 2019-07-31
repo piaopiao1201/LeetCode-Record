@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6c2d9084-4306-4748-89d5-69241491ab17" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../前 K 个高频元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../前 K 个高频元素/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../前 K 个高频元素/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../前 K 个高频元素/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../合并二叉树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../合并二叉树/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../把二叉搜索树转换为累加树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../把二叉搜索树转换为累加树/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../零钱兑换/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../零钱兑换/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +19,12 @@
     <session id="792105848">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -82,7 +85,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="415" />
     <option name="y" value="140" />
     <option name="width" value="1235" />
@@ -94,6 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,8 +115,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,16 +149,18 @@
       <workItem from="1564394009771" duration="680000" />
       <workItem from="1564403176498" duration="1191000" />
       <workItem from="1564454056018" duration="772000" />
+      <workItem from="1564477351707" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2643000" />
+    <option name="totallyTimeSpent" value="3239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06300268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06367292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
