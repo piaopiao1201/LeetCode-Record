@@ -49,6 +49,7 @@ public class Main {
     public static void find(List<Integer> coinsArr,int remain,int start,int count,List<Integer> res){
         if(remain==0){
             res.set(0,Math.min(res.get(0),count));
+            return;
         }
         for(int i=start;i<coinsArr.size();i++){
             long tmp=(long)coinsArr.get(i)*(res.get(0)-count);
