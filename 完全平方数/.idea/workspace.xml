@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f689329-32e0-4a6f-833a-2fab6e075bb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../字符串解码/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二叉树展开为链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../二叉树展开为链表/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../零钱兑换/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../零钱兑换/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -16,6 +18,7 @@
     <session id="-1368843273">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -203,15 +206,15 @@
       <updated>1564641225011</updated>
       <workItem from="1564641228502" duration="1414000" />
       <workItem from="1564713282114" duration="3114000" />
-      <workItem from="1564800149229" duration="854000" />
+      <workItem from="1564800149229" duration="1285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5382000" />
+    <option name="totallyTimeSpent" value="5813000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07908847" />
