@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        
+        String a="ass";
+        String b="dassd";
+        System.out.println(b.contains(a));
     }
     public int countSubstrings(String s) {
         int[][] dp=new int[s.length()][s.length()];
