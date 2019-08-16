@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String a="ass";
+        String a="as";
         String b="dassd";
         System.out.println(b.contains(a));
     }
