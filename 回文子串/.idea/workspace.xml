@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="143cda4a-43c0-41f3-9273-f8ac3bde903d" name="Default Changelist" comment="" />
+    <list default="true" id="143cda4a-43c0-41f3-9273-f8ac3bde903d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../单调栈/柱状图中最大的矩形/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单调栈/柱状图中最大的矩形/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
