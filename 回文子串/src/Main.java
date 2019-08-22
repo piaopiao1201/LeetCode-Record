@@ -1,7 +1,22 @@
+import java.util.Calendar;
+
 public class Main {
     public static void main(String[] args) {
+        Calendar cal = Calendar.getInstance();
+        int serverOffset=cal.get(Calendar.ZONE_OFFSET)/(1000*60*60);
         String a="a";
-        String b="dassd";
+        switch (a){
+            case "a":
+                System.out.println(1);
+                break;
+            case "b":
+                System.out.println(2);
+                break;
+            default:
+                System.out.println(3);
+        }
+        String b="Everyday";
+        String[] arr=b.split("_");
         System.out.println(b.contains(a));
     }
     public int countSubstrings(String s) {
