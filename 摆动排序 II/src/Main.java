@@ -1,8 +1,15 @@
 import java.util.Arrays;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class Main {
     public static void main(String[] args) {
-
+        try{
+            int i=1,j=0;
+            int p=i/j;
+            System.out.println(1);
+        }catch (Exception e){
+            System.out.println(2);
+        }
     }
     public void wiggleSort(int[] nums) {
         int[] arr= Arrays.copyOf(nums,nums.length);
