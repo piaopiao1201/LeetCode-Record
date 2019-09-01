@@ -3,7 +3,12 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-
+        List<Integer> temp=new ArrayList<>();
+        List<Integer> temp2=new ArrayList<>();
+        temp2.add(2);
+        temp2.add(3);
+        temp.addAll(temp2);
+        System.out.println(1);
     }
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
         List<List<Integer>> res=new ArrayList<>();

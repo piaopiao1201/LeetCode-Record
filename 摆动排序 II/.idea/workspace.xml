@@ -4,8 +4,9 @@
     <list default="true" id="510e9648-8e10-4197-9ab4-1f72439954ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../奇偶链表/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../奇偶链表/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/摆动排序 II/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/摆动排序 II/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../路径总和 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../路径总和 II/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../路径总和 II/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../路径总和 II/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../递增的三元子序列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../递增的三元子序列/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +19,12 @@
     <session id="901109057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.20" value="4" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,7 +54,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="163">
               <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,8 +89,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="950" />
-    <option name="y" value="265" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="860" />
     <option name="height" value="560" />
   </component>
@@ -99,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +120,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -172,17 +173,19 @@
       <workItem from="1567042251014" duration="1912000" />
       <workItem from="1567131109102" duration="627000" />
       <workItem from="1567167927336" duration="1219000" />
+      <workItem from="1567256306996" duration="1194000" />
+      <workItem from="1567299924161" duration="631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8309000" />
+    <option name="totallyTimeSpent" value="10134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.03552279" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12064343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,7 +224,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="163">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
