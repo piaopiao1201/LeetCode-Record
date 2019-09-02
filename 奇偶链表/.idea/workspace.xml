@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa647e1f-062e-4e88-8617-44580465338a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../摆动排序 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../摆动排序 II/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../路径总和 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../路径总和 II/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../路径总和 II/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../路径总和 II/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../递增的三元子序列/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../递增的三元子序列/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa647e1f-062e-4e88-8617-44580465338a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +13,7 @@
     <session id="1794536543">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -97,7 +91,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="860" />
@@ -173,16 +167,15 @@
       <option name="presentableId" value="Default" />
       <updated>1566786854701</updated>
       <workItem from="1566786856963" duration="1293000" />
-      <workItem from="1567300111872" duration="627000" />
+      <workItem from="1567300111872" duration="16030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1920000" />
+    <option name="totallyTimeSpent" value="17323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17024128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
