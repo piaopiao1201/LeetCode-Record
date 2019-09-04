@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e9648-8e10-4197-9ab4-1f72439954ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../字符串中的第一个唯一字符/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../字符串中的第一个唯一字符/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../打乱数组/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../打乱数组/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../有序矩阵中第K小的元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../有序矩阵中第K小的元素/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,7 +109,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="1933" />
     <option name="height" value="1038" />
@@ -203,8 +205,7 @@
     <option name="totallyTimeSpent" value="13612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25201073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
