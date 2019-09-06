@@ -2,6 +2,7 @@ import com.sun.deploy.util.ArrayUtil;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -14,6 +15,8 @@ public class Main {
         }catch (Exception e){
             System.out.println(2);
         }
+        HashSet<Integer> hashSet=new HashSet<>();
+        hashSet.contains()
     }
     public void wiggleSort(int[] nums) {
         int[] arr= Arrays.copyOf(nums,nums.length);
