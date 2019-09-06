@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e9648-8e10-4197-9ab4-1f72439954ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../打乱数组/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../打乱数组/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../有序矩阵中第K小的元素/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../有序矩阵中第K小的元素/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../至少有K个重复字符的最长子串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../至少有K个重复字符的最长子串/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,8 +137,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="width" value="1935" />
+    <option name="x" value="-94" />
+    <option name="y" value="57" />
+    <option name="width" value="1933" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
