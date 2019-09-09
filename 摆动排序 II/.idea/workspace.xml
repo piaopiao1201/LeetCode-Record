@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510e9648-8e10-4197-9ab4-1f72439954ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../学生出勤记录 II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../学生出勤记录 II/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../至少有K个重复字符的最长子串/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../至少有K个重复字符的最长子串/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../整数拆分/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../整数拆分/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../除数博弈/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../除数博弈/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,16 +17,17 @@
     <session id="901109057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="5" />
           <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -81,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="jar://D:/Java/jdk1.8.172/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="566" column="20" selection-start-line="566" selection-start-column="20" selection-end-line="566" selection-end-column="20" />
+            <state relative-caret-position="112">
+              <caret line="567" column="13" selection-start-line="567" selection-start-column="13" selection-end-line="567" selection-end-column="13" />
               <folding>
                 <element signature="e#23628#23629#0" expanded="true" />
                 <element signature="e#23682#23683#0" expanded="true" />
@@ -139,10 +140,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-95" />
-    <option name="y" value="56" />
-    <option name="width" value="1934" />
-    <option name="height" value="1040" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -151,6 +152,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,13 +173,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567521501414" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../排序算法" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -231,18 +233,20 @@
       <workItem from="1567654422751" duration="602000" />
       <workItem from="1567673427739" duration="645000" />
       <workItem from="1567755538040" duration="1204000" />
-      <workItem from="1567824784043" duration="998000" />
+      <workItem from="1567824784043" duration="1000000" />
+      <workItem from="1567999309560" duration="643000" />
+      <workItem from="1568031430583" duration="669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17061000" />
+    <option name="totallyTimeSpent" value="18375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647453" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27144772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,8 +324,8 @@
     </entry>
     <entry file="jar://D:/Java/jdk1.8.172/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="566" column="20" selection-start-line="566" selection-start-column="20" selection-end-line="566" selection-end-column="20" />
+        <state relative-caret-position="112">
+          <caret line="567" column="13" selection-start-line="567" selection-start-column="13" selection-end-line="567" selection-end-column="13" />
           <folding>
             <element signature="e#23628#23629#0" expanded="true" />
             <element signature="e#23682#23683#0" expanded="true" />
